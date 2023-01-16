@@ -1,0 +1,10 @@
+# ignore folders
+__pycache__/
+Include/
+Lib/
+Scripts/
+share/
+/.gitignore.swp
+/pyvenv.cfg
+/test.py
+
