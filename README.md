@@ -1,14 +1,14 @@
 # 파이썬 매일 코딩
 ## Python Workout
 
-&nbsp;&nbsp;&nbsp; Reuven M. Lerner의 *파이썬 매일 코딩*은 제가 파이썬을 처음 공부할 때 접했던 교재입니다. 
+&nbsp;&nbsp;&nbsp; Reuven M. Lerner의 『파이썬 매일 코딩』은 제가 파이썬을 처음 공부할 때 접했던 교재입니다. 
 교보문고에서 적당한 책이 없나 찾다가 우연한 기회에 접하게 되었고, 매일 아침마다 30분씩을 투자해서 한 문제씩 풀어보았습니다. 
 파이썬을 처음 접하는 독자에게 필요한 내용이 많았습니다. 
 파이썬의 자료형부터 클래스를 만드는 단계까지 필수적인 내용이 단계적으로 설명되어 있었습니다. 
 한 단계씩 진행하다 보니 이해하기 어려운 개념도 '아 이런 의미였구나!' 하고 깨닫게 되는 순간이 오기도 했습니다. 
 처음 코딩 공부했던 내용이라 어설픈 점이 많지만, 처음 공부하던 모습과 흔적을 남겨두기 위해 이렇게 갈무리해둡니다.
 
-&nbsp;&nbsp;&nbsp; The book 'Python Workout' was the first book I turned to when I started learning Python. 
+&nbsp;&nbsp;&nbsp; The book *Python Workout* was the first book I turned to when I started learning Python. 
 I searched for Python books on the internet and luckily came across it. 
 I studied with this book by solving a problem for 30 minutes every day. 
 The book offers a wide range of useful content for beginners. 
